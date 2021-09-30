@@ -1,0 +1,2 @@
+Conteúdo Arquivo2.txt
+Fim.
